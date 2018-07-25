@@ -20,7 +20,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 public class Wrangle implements Serializable {
 
 	/**
-	 * 
+	 * versionando o codigo
 	 */
 	private static final long serialVersionUID = 5139458147624717566L;
 
